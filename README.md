@@ -1,2 +1,2 @@
-# rptools-icons
-General Icons for RPTools
+# rptools-logos
+General Logos for RPTools
